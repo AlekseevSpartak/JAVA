@@ -1,0 +1,15 @@
+//Задание № 2
+
+package edu.spartak.itmo;
+
+public class Main {
+
+    public static void main(String[] args)
+    {
+    int f1 = (46 + 10) * (10 / 3);
+    int f2 = (29) * (4) * (-15);
+    System.out.println("Результат: ");
+    System.out.println("Формула 1:"+ f1);
+    System.out.println("Формула 1:"+ f2);
+    }
+}

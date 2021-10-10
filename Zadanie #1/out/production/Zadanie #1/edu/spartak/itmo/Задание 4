@@ -1,0 +1,14 @@
+//Задание № 4
+
+package edu.spartak.itmo;
+
+public class Main {
+
+    public static void main(String[] args)
+    {
+      double a = 3.6, b = 4.1, c = 4.1;
+      double result = a*b*c;
+      System.out.println(result);
+
+    }
+}
